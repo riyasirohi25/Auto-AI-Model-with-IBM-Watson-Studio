@@ -98,13 +98,13 @@ You can also view the leaderboard inside Watson Studio to compare precision, rec
 ## Screenshots
 
 ### 🔄 AutoAI Pipeline
-![AutoAI Pipeline]((https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/Screenshot%202025-07-09%20233927.png?raw=true))
+![AutoAI Pipeline](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/Screenshot%202025-07-09%20233927.png?raw=true)
 
 ### 🏆 Leaderboard
 ![Leaderboard](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/Screenshot%202025-07-09%20233942.png?raw=true)
 
 ### 📊 Feature Importance
-![Feature Importance]((https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/Screenshot%202025-07-09%20235714.png?raw=true))
+![Feature Importance](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/Screenshot%202025-07-09%20235714.png?raw=true)
 
 ---
 
