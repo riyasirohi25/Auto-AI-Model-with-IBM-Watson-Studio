@@ -104,7 +104,17 @@ You can also view the leaderboard inside Watson Studio to compare precision, rec
 ![Leaderboard](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/Screenshot%202025-07-09%20233942.png?raw=true)
 
 ### 📊 Feature Importance
-![Feature Importance](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/Screenshot%202025-07-09%20235714.png?raw=true)
+![Prediction_Result](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/Screenshot%202025-07-09%20235714.png?raw=true)
+
+### Feature Importance
+![Feature_Importance](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/feature_summary.png?raw=true)
+
+### Confusion Matrix
+![Confusion_Matrix](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/confusion_matrix.png?raw=true)
+
+### Model Evaluation - ROC Curve
+![ROC_Curve](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/model_evaluation_ROCCurve.png?raw=true)
+![Model_Evaluation_Metrics](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/model_evaluation_metrics.png?raw=true)
 
 ---
 
