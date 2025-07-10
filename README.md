@@ -38,8 +38,8 @@ This machine learning project leverages IBM Watson Studio's AutoAI to predict su
 | Name | Name of passenger |
 | Sex | Gender |
 | Age | Age in years |
-| SibSp | # of siblings/spouses aboard |
-| Parch | # of parents/children aboard |
+| SibSp | siblings/spouses aboard |
+| Parch | parents/children aboard |
 | Ticket | Ticket number |
 | Fare | Passenger fare |
 | Cabin | Cabin number |
@@ -47,12 +47,12 @@ This machine learning project leverages IBM Watson Studio's AutoAI to predict su
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **IBM Watson Studio**
 - **AutoAI**
 - **Python (for optional preprocessing or visualizations)**
-- **Jupyter Notebooks (optional)**
+- **Jupyter Notebooks/ Google Colab (optional)**
 
 ---
 
@@ -75,8 +75,8 @@ This machine learning project leverages IBM Watson Studio's AutoAI to predict su
 ## Results
 
 - **Target Column:** `Survived`
-- **Best Performing Model:** (e.g., XGBoostClassifier, RandomForestClassifier, etc.)
-- **Accuracy Achieved:** _(Insert your test set accuracy here — e.g., 81.2%)_
+- **Best Performing Model:** XGBoostClassifier
+- **Accuracy Achieved:** _(83.3%)_
 - **Feature Importance:** AutoAI identified key factors like `Sex`, `Pclass`, `Fare`, and `Age` as strong predictors of survival.
 
 You can also view the leaderboard inside Watson Studio to compare precision, recall, F1-score, and ROC-AUC for all generated models.
@@ -95,13 +95,16 @@ You can also view the leaderboard inside Watson Studio to compare precision, rec
 
 ---
 
-## Screenshots (Optional)
+## Screenshots
 
-*You can add screenshots of:*
-- AutoAI pipeline
-- Model leaderboard
-- Feature importance charts
-- Accuracy/performance summary
+### 🔄 AutoAI Pipeline
+![AutoAI Pipeline](https://drive.google.com/file/d/1NUq52gPYEwju2HiUWR9_ze9uyt9R093S/view?usp=sharing)
+
+### 🏆 Leaderboard
+![Leaderboard](https://drive.google.com/file/d/1jvOExtWOLswoNoFF98wfAIeXGnXDEuuB/view?usp=sharing)
+
+### 📊 Feature Importance
+![Feature Importance](https://drive.google.com/file/d/1XqhOziG05WyRZYfkkAu9PIzE-C6Dn2zw/view?usp=sharing)
 
 ---
 
