@@ -98,13 +98,14 @@ You can also view the leaderboard inside Watson Studio to compare precision, rec
 ## Screenshots
 
 ### 🔄 AutoAI Pipeline
-![AutoAI Pipeline](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/Screenshot%202025-07-09%20233927.png?raw=true)
+![AutoAI Pipeline](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/autoAI_Pipeline.png?raw=true)
 
 ### 🏆 Leaderboard
-![Leaderboard](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/Screenshot%202025-07-09%20233942.png?raw=true)
+![Leaderboard](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/screenshot_pipeline_leaderboard.png?raw=true)
 
-### 📊 Feature Importance
-![Prediction_Result](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/Screenshot%202025-07-09%20235714.png?raw=true)
+### 📊 Prediction Result
+![Prediction_Result1](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/screenshot_prediction_result1.png?raw=true)
+![Prediction_Result2](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/screenshot_prediction_result2.png?raw=true)
 
 ### Feature Importance
 ![Feature_Importance](https://github.com/riyasirohi25/Auto-AI-Model-with-IBM-Watson-Studio/blob/main/feature_summary.png?raw=true)
