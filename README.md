@@ -98,13 +98,13 @@ You can also view the leaderboard inside Watson Studio to compare precision, rec
 ## Screenshots
 
 ### 🔄 AutoAI Pipeline
-![AutoAI Pipeline](https://drive.google.com/file/d/1NUq52gPYEwju2HiUWR9_ze9uyt9R093S/view?usp=sharing)
+![AutoAI Pipeline](Screenshot 2025-07-09 233927.png)
 
 ### 🏆 Leaderboard
-![Leaderboard](https://drive.google.com/file/d/1jvOExtWOLswoNoFF98wfAIeXGnXDEuuB/view?usp=sharing)
+![Leaderboard](Screenshot 2025-07-09 233942.png)
 
 ### 📊 Feature Importance
-![Feature Importance](https://drive.google.com/file/d/1XqhOziG05WyRZYfkkAu9PIzE-C6Dn2zw/view?usp=sharing)
+![Feature Importance](Screenshot 2025-07-09 235714.png)
 
 ---
 
